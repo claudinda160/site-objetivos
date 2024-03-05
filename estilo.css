@@ -5,3 +5,23 @@
     --botao-vermelho:#531616;
     --texto-fundo:rgba(0,0,0.3);
 }
+
+body{
+    background-color:var(--cor-de-fundo);
+    color: var(--vermelho);
+    font-family:'oswald',sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap')
